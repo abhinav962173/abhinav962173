@@ -90,13 +90,4 @@ Uploading videos on **Manipal Online BCA** and **Coding Tutorials**!
 
 ## 📬 Connect with Me
 
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-abhinav962173-181717?style=for-the-badge&logo=github)
-
-](https://github.com/abhinav962173)
-[
-
-![YouTube](https://img.shields.io/badge/YouTube-the_manipal_bca_student-FF0000?style=for-the-badge&logo=youtube)
-
-](https://youtube.com/@the_manipal_bca_student)
+[![GitHub](https://img.shields.io/badge/GitHub-abhinav962173-181717?style=for-the-badge&logo=github)](https://github.com/abhinav962173) [![YouTube](https://img.shields.io/badge/YouTube-the_manipal_bca_student-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@the_manipal_bca_student)
