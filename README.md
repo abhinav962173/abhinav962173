@@ -67,7 +67,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abhinav962173&theme=tokyonight)
 
-](https://git.io/streak-stats)
+]
 
 ## 🚀 My Projects
 
