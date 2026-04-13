@@ -89,7 +89,6 @@ Uploading videos on **Manipal Online BCA** and **Coding Tutorials**!
 ---
 
 ## 📬 Connect with Me
-
 [
 
 ![GitHub](https://img.shields.io/badge/GitHub-abhinav962173-181717?style=for-the-badge&logo=github)
